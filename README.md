@@ -20,17 +20,13 @@
         <section>
             <h2>Education</h2>
             <p>
-                
-             Im studying information of technology, and later want to do cyber sercurity when i transfer
-                
-                </p>
+             Im studying information of technology, and later want to do cyber sercurity when i transfer  
+            </p>
         </section>
         <section>
             <h2>Skills/Hobbies</h2>
             <p>
-
-             Some hobbies that i have is archery, art, singing, race car driving and so much more. Skills that i have is i can whistle, photographic memory, can recite full blown quotes from movies and tv shows. Thats much pretty much it that i cam remember lol. Oh also i can speak three different languages.
-
+                 Some hobbies that i have is archery, art, singing, race car driving and so much more. Skills that i have is i can whistle, photographic memory, can recite full blown quotes from movies and tv shows. Thats much pretty much it that i cam remember lol. Oh also i can speak three different languages.
             </p>
         </section>
     </main>
